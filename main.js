@@ -7,7 +7,7 @@ function kirimPesan() {
 
     var gabungan = '%3Cb%3ENama%3C%2Fb%3E : ' + nama.value + '%0A%3Cb%3EWhatsapp%3C%2Fb%3E : ' + whatsapp.value + '%0A%3Cb%3EEmail%3C%2Fb%3E : ' + email.value + '%0A%3Cb%3EPesan%3C%2Fb%3E : ' + pesan.value;
 
-    var token = '6348906384:AAEl9NRflZVgiSpbjrby3RBR-R-_2DqfWjg'; // Ganti dengan token bot yang kamu buat
+    var token = '6512744601:AAGeGPfVOBNwDbqCncFDZ8m2ESV5Tzne-NA'; // Ganti dengan token bot yang kamu buat
     var grup = '-1001974676085'; // Ganti dengan chat id dari bot yang kamu buat
 
     $.ajax({
